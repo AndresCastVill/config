@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to loans related QA local APIs from local disk"
+  contactDetails:
+    name: "Gerardo QA loans from local disk"
+    email: "email@emailQAloans.com"
+  onCallSupport:
+    - (555) 555-234
+    - (556) 556-134

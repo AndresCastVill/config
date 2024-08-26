@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to cards related QA local APIs from local disk"
+  contactDetails:
+    name: "Gerardo QA cards from local disk"
+    email: "email@emailQAcards.com"
+  onCallSupport:
+    - (555) 555-234
+    - (556) 556-134

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to loans related Prod local APIs"
+  contactDetails:
+    name: "Gerardo loans Prod"
+    email: "email@emailProdloans.com"
+  onCallSupport:
+    - (555) 555-234
+    - (556) 556-134

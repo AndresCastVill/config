@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to cards related Prod local APIs"
+  contactDetails:
+    name: "Gerardo cards Prod"
+    email: "email@emailProdcards.com"
+  onCallSupport:
+    - (555) 555-234
+    - (556) 556-134
