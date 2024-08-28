@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to accounts related Productionv.2.1 local APIs"
+  message: "Welcome to accounts related Productionv.2.1.2 local APIs"
   contactDetails:
     name: "Gerardo Prod"
     email: "{cipher}f01670d1f18fcacc7a30c02ed77ee913f30107a30c3fee21a8a12545baa4308678b6bc39db48379736299362a0311341"
