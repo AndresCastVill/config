@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to accounts related QA local APIs from local disk"
   contactDetails:
     name: "Gerardo QA from local disk"
-    email: "email@emailQA.com"
+    email: "{cipher}6a71318b6a38876682f916fde9048d611cb4b816054f035fcc46b42fe71d62e660fbb41b0b1ceaf911bbedebe1d61d28"
   onCallSupport:
     - (555) 555-234
     - (556) 556-134
